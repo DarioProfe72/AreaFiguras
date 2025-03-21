@@ -13,6 +13,8 @@ public class CalcularAreas {
 		System.out.printf("El área del triángulo es %.2f", area);
 		
 		//Área Cuadrado2
+		//Declaramos variable lado
+		int lado=5;
 	}
 
 }
