@@ -9,6 +9,9 @@ public class CalcularAreas {
 		int altura=10;
 		//Declaramos la variable area y aplicamos fórmula a=(base x altura)/2
 		double area=(base*altura)/2;
+		//Mostramos  el área del triángulo por pantalla
+		System.out.printf("El área del triángulo es %.2f", area);
+		
 	}
 
 }
