@@ -4,10 +4,11 @@ public class CalcularAreas {
 
 	public static void main(String[] args) {
 		//Programa para calcular áreas
-		//Declarar variables base y altura, asignamos valores
+		//Área triangulo. Declarar variables base y altura, asignamos valores
 		int base=5;
 		int altura=10;
-		
+		//Declaramos la variable area y aplicamos fórmula a=(base x altura)/2
+		double area=(base*altura)/2;
 	}
 
 }
