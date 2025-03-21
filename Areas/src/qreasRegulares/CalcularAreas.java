@@ -15,6 +15,8 @@ public class CalcularAreas {
 		//Área Cuadrado2
 		//Declaramos variable lado
 		int lado=5;
+		//Area
+		int area=lado*lado;
 	}
 
 }
