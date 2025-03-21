@@ -12,6 +12,7 @@ public class CalcularAreas {
 		//Mostramos  el área del triángulo por pantalla
 		System.out.printf("El área del triángulo es %.2f", area);
 		
+		//Área Cuadrado
 	}
 
 }
